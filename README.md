@@ -8,7 +8,7 @@
 - 🔭 Currently building **Droodle**, **Second Brain**, and **Gemstone Gossip**
 - 💬 Ask me about `MERN`, `Next.js`, `C++`, `Python`, or `ML`
 - 🌱 Exploring **Deep RL** and scalable backend architecture
-- 📫 Reach me at: `devanshsharma@email.com` *(replace with your actual email)*
+- 📫 Reach me at: `devansh26.01.2005@email.com` 
 
 ---
 
@@ -29,8 +29,8 @@
 ### 🚀 Featured Projects
 
 - 🎨 [**Droodle**](https://github.com/dveo26/droodle): Collaborative drawing app with live updates and sharing
-- 🧠 [**Second Brain**](https://github.com/dveo26/2nd-brain): Personal knowledge management tool with tagging, linking, and AI
-- 💎 [**Gemstone Gossip**](https://github.com/dveo26/gemstone-gossip): Smart recommendation engine for precious stones
+- 🧠 [**Second Brain**](https://github.com/dveo26/2nd-brain): Personal knowledge management tool with tagging, linking, and sharing
+- 💎 [**Gemstone Gossip**](https://github.com/dveo26/gemstone-gossip): A real time chatting app with online user detection
 
 ---
 
@@ -49,12 +49,10 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/devansh-sharma2005/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome" />
-  </a>
+ 
 </p>
 
 ---
