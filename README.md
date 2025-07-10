@@ -5,7 +5,6 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building **Droodle**, **Second Brain**, and **Gemstone Gossip**
 - 💬 Ask me about `MERN`, `Next.js`, `C++`, `Python`, or `ML`
 - 🌱 Exploring **Deep RL** and scalable backend architecture
 - 📫 Reach me at: `devansh26.01.2005@email.com` 
