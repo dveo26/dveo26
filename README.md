@@ -27,17 +27,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dveo26&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dveo26&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dveo26&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
@@ -47,12 +37,4 @@
   </a>
 </p>
 
----
 
-### 🐍 Contribution Graph Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dveo26/dveo26/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dveo26/dveo26/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dveo26/dveo26/output/github-snake.svg" />
-</picture>
